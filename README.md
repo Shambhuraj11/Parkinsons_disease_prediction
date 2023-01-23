@@ -1,5 +1,8 @@
 # Parkinsons_disease_prediction
 
+Deploy Link of Project
+https://shambhurajp-parkinson.onrender.com
+
 ### Softwares and tools Requirements
 
 
